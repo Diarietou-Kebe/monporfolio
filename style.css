@@ -1,6 +1,6 @@
 .header{
     background-color: #1f203a;
-    height: 3600px;
+    height: 3500px;
 }
 .home{
     color: white;
@@ -83,23 +83,24 @@ a, .p1{
     background-color:#fceb21 ;
     font-size: 15px;
     color: #111111;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
-    width: 20%;
-    font-family: Roboto,sans-serif;
-    
-}
-.bouton1{
-    background-color:#fceb21 ;
+    width: 15%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}    
+
+.bouton1 {
+    background-color: #fceb21;
     font-size: 15px;
     color: #111111;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
-    align-content: center;
-    width: 20%;
-    margin-right: 100%;
-    font-family: Roboto,sans-serif;
-}
+    width: 15%;
+    margin: 0 auto; /* Add this line to center the button horizontally */
+    display: block; /* Add this line to make the button a block-level element */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
 
 #a{
     color: white;
